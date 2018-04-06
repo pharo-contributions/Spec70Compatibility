@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TextInputFieldModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TextInputFieldPresenter",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DialogWindowModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DialogWindowPresenter",
+	"type" : "normal"
+}

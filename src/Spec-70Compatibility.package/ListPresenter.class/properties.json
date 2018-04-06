@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ListModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ListPresenter",
+	"type" : "normal"
+}

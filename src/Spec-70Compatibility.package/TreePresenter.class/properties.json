@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TreeModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TreePresenter",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RadioButtonModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RadioButtonPresenter",
+	"type" : "normal"
+}

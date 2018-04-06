@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TextModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TextPresenter",
+	"type" : "normal"
+}

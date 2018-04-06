@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TickingWindowModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TickingWindowPresenter",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DiffModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DiffPresenter",
+	"type" : "normal"
+}

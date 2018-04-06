@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SliderModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SliderPresenter",
+	"type" : "normal"
+}

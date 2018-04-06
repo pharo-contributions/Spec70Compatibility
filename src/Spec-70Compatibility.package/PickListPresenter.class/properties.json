@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PickListModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PickListPresenter",
+	"type" : "normal"
+}

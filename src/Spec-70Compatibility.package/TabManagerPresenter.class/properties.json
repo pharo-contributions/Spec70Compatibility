@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TabManagerModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TabManagerPresenter",
+	"type" : "normal"
+}

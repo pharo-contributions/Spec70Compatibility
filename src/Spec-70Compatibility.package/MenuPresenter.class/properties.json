@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MenuModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MenuPresenter",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DateModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DatePresenter",
+	"type" : "normal"
+}

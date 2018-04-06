@@ -1,0 +1,2 @@
+I'm a stub to provide compatibility with Spec for Pharo 7+, where hierarchy changed suffix from Model to Presenter. 
+I'm equivalent in all cases to PickListModel, but you need to use me if you want to be compatible with future versions of Pharo.

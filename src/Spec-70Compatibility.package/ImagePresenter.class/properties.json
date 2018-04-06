@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ImageModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ImagePresenter",
+	"type" : "normal"
+}

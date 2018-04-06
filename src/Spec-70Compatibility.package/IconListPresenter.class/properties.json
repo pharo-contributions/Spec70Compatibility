@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "IconListModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "IconListPresenter",
+	"type" : "normal"
+}

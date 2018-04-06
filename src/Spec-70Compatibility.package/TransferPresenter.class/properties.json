@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TransferModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TransferPresenter",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DropListModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DropListPresenter",
+	"type" : "normal"
+}

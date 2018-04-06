@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TableContainerModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TableContainerPresenter",
+	"type" : "normal"
+}

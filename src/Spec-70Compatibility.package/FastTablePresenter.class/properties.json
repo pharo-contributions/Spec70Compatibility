@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FastTableModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FastTablePresenter",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WorldModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WorldPresenter",
+	"type" : "normal"
+}

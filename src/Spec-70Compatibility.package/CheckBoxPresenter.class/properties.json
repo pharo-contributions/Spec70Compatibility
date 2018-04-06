@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CheckBoxModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CheckBoxPresenter",
+	"type" : "normal"
+}

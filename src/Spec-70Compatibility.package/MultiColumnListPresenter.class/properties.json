@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MultiColumnListModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MultiColumnListPresenter",
+	"type" : "normal"
+}

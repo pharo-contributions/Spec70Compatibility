@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "LabelModel",
+	"category" : "Spec-70Compatibility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LabelPresenter",
+	"type" : "normal"
+}
